@@ -1,1 +1,1 @@
-# gitflow
+# This is a demo for gitflow strategy
